@@ -36,6 +36,11 @@
 			<td></td> 
 			<td>╳</td> 
 		</tr>
-        	<tr><th>5</th><td>第3課-程式結構與進入點</td><td></td><td>○</td></tr>
+        	<tr>
+			<th>5</th>
+			<td>第3課-程式結構與進入點</td>
+			<td></td>
+			<td>○</td>
+		</tr>
 	</tbody>
 </table>
