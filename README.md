@@ -21,7 +21,31 @@ my first github
 			<td></td> 
 			<td>╳/td> 
 		</tr>
-       
+                <tr> 
+			<th>2</th> 
+			<td>第1課-C# 是甚麼？</td> 
+			<td></td> 
+			<td>╳/td> 
+		</tr>
+        	<tr> 
+			<th>3</th> 
+			<td>第2課-IDE 跟 Hello World</td> 
+			<td></td> 
+			<td>╳/td> 
+		</tr>
+        	<tr> 
+			<th>4</th> 
+			<td>第2.1課-Visual Studio Community</td> 
+			<td></td> 
+			<td>╳/td> 
+		</tr>
+        	<tr> 
+			<th>5</th> 
+			<td>第3課-程式結構與進入點</td> 
+			<td></td> 
+			<td>○</td> 
+		</tr>
+        	
 	</tbody>
 </table>
 “`
