@@ -45,7 +45,5 @@ my first github
 			<td></td> 
 			<td>○</td> 
 		</tr>
-        	
 	</tbody>
 </table>
-`“
