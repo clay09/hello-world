@@ -31,7 +31,7 @@ my first github
 			<th>3</th> 
 			<td>第2課-IDE 跟 Hello World</td> 
 			<td></td> 
-			<td>╳/td> 
+			<td>╳</td> 
 		</tr>
         	<tr> 
 			<th>4</th> 
