@@ -19,13 +19,13 @@ my first github
 			<th>1</th> 
 			<td> 第0課-閒聊及影片介紹</td> 
 			<td></td> 
-			<td>╳/td> 
+			<td>╳</td> 
 		</tr>
                 <tr> 
 			<th>2</th> 
 			<td>第1課-C# 是甚麼？</td> 
 			<td></td> 
-			<td>╳/td> 
+			<td>╳</td> 
 		</tr>
         	<tr> 
 			<th>3</th> 
@@ -37,7 +37,7 @@ my first github
 			<th>4</th> 
 			<td>第2.1課-Visual Studio Community</td> 
 			<td></td> 
-			<td>╳/td> 
+			<td>╳</td> 
 		</tr>
         	<tr> 
 			<th>5</th> 
