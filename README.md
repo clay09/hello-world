@@ -1,15 +1,8 @@
 # 小山的 C# 教學
+```html
 <table>
 	<thead>
-		<tr>
-			<th>編號</th>	
-			<th>課程名稱</th>
-			<th>超過15分鐘</th>	
-			<th>註記<br />
-			╳ : 不用看<br />
-			○ : 必看<br />
-			△ : 練習<br /></th>
-		</tr>
+		<tr><th>編號</th><th>課程名稱</th><th>超過15分鐘</th><th>註記<br />╳ : 不用看<br />○ : 必看<br />△ : 練習<br /></th></tr>
 	</thead>
 	<tbody>
 		<tr><th>1</th><td>第0課-閒聊及影片介紹</td><td></td><td>╳</td></tr>
@@ -18,5 +11,9 @@
         	<tr><th>4</th><td>第2.1課-Visual Studio Community</td><td></td><td>╳</td></tr>
         	<tr><th>5</th><td>第3課-程式結構與進入點</td><td></td><td>○</td></tr>
 		<tr><th>6</th><td>第四課-視窗與按鈕</td><td></td><td>△</td></tr>
+		<tr><th>7</th><td>第5課-變數</td><td></td><td>○</td></tr>
+		<tr><th>8</th><td>第6課-基本計算</td><td></td><td>○</td></tr>
 	</tbody>
 </table>
+```
+
