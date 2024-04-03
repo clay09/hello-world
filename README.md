@@ -42,5 +42,6 @@
 			<td></td>
 			<td>○</td>
 		</tr>
+		<tr><th></th><td></td><td></td></tr>
 	</tbody>
 </table>
