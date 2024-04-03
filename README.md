@@ -1,7 +1,7 @@
 # hello-world
 my first github
 小山的 C# 教學		
-“`html
+
 <table>
 	<thead>
 		<tr>
